@@ -22,7 +22,7 @@ func main() {
 		os.Getenv("DB_PASSWORD"), os.Getenv("DB_PORT"))
 
 	if errDb != nil {
-		panic(err)
+		panic(errDb)
 	}
 
 }
