@@ -3,7 +3,7 @@ Backend para punto de venta en Go
 
 Herramientas:
 
-Go (Golang)
+Go (Golang) 1.13+
 
 GORM - ORM for Golang
 
