@@ -1,4 +1,4 @@
-# cursoinicialgo
+# cursoinicial-go
 Backend para punto de venta en Go
 
 Herramientas:
